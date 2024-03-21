@@ -1,7 +1,7 @@
 export function Header() {
   return (
     <header
-      className={`px-4 py-5 flex flex-row justify-between items-center gap-6 bg-blue-400 shadow-xl text-xl text-white`}
+      className={`px-4 py-5 flex flex-row justify-between items-center gap-6 bg-blue-400 shadow-xl text-xl text-white sticky top-0`}
     >
       <div>
         <ul className={`flex flex-row justify-around gap-6`}>
