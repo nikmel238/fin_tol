@@ -4,7 +4,7 @@ import { Main } from "../components/Main";
 
 function HomePage() {
   return (
-    <div className={`bg-stone-200 min-h-screen`}>
+    <div className={`bg-stone-100 min-h-screen`}>
       <Header />
       <Main />
       <Footer />
